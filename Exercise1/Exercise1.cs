@@ -4,34 +4,32 @@ namespace Exercise1
 {
     class Engine
     {
-        private const int state_stopped = 1;
-        private const int state_started = 2;
-        public int engine_state;
+        private const int StateStopped = 1;
+        private const int StateStarted = 2;
+        public int engineState;
 
-        public void start()
+        public void Start()
         {
-            Console.Out.WriteLine( "Start" );
-            engine_state = state_stopped;
+            Console.Out.WriteLine("Start");
+            engineState = StateStarted;
         }
 
-        public void stop()
+        public void Stop()
         {
-            Console.Out.WriteLine( "Stop" );
-            engine_state = state_started;
+            Console.Out.WriteLine("Stop");
+            engineState = StateStopped;
         }
 
-        public String getState()
+        public string GetState()
         {
-            String state = null;
+            string state;
 
-            if( engine_state == state_stopped )
-            {
-                state = "STOPPED";
-            }
-            else if( engine_state == state_started )
-            {
-                state = "STARTED";
-            }
+            if ( engineState == StateStopped )
+                state = "Stopped";
+            else if ( engineState == StateStarted )
+                state = "Started";
+            else
+                state = null;
 
             return state;
         }
