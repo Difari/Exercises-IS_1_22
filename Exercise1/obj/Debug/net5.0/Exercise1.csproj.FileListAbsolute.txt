@@ -1,0 +1,16 @@
+C:\Users\s40977\Source\Repos\Difari\Exercises-IS_1_22\Exercise1\bin\Debug\net5.0\Exercise1.exe
+C:\Users\s40977\Source\Repos\Difari\Exercises-IS_1_22\Exercise1\bin\Debug\net5.0\Exercise1.deps.json
+C:\Users\s40977\Source\Repos\Difari\Exercises-IS_1_22\Exercise1\bin\Debug\net5.0\Exercise1.runtimeconfig.json
+C:\Users\s40977\Source\Repos\Difari\Exercises-IS_1_22\Exercise1\bin\Debug\net5.0\Exercise1.runtimeconfig.dev.json
+C:\Users\s40977\Source\Repos\Difari\Exercises-IS_1_22\Exercise1\bin\Debug\net5.0\Exercise1.dll
+C:\Users\s40977\Source\Repos\Difari\Exercises-IS_1_22\Exercise1\bin\Debug\net5.0\ref\Exercise1.dll
+C:\Users\s40977\Source\Repos\Difari\Exercises-IS_1_22\Exercise1\bin\Debug\net5.0\Exercise1.pdb
+C:\Users\s40977\Source\Repos\Difari\Exercises-IS_1_22\Exercise1\obj\Debug\net5.0\Exercise1.csproj.AssemblyReference.cache
+C:\Users\s40977\Source\Repos\Difari\Exercises-IS_1_22\Exercise1\obj\Debug\net5.0\Exercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s40977\Source\Repos\Difari\Exercises-IS_1_22\Exercise1\obj\Debug\net5.0\Exercise1.AssemblyInfoInputs.cache
+C:\Users\s40977\Source\Repos\Difari\Exercises-IS_1_22\Exercise1\obj\Debug\net5.0\Exercise1.AssemblyInfo.cs
+C:\Users\s40977\Source\Repos\Difari\Exercises-IS_1_22\Exercise1\obj\Debug\net5.0\Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\s40977\Source\Repos\Difari\Exercises-IS_1_22\Exercise1\obj\Debug\net5.0\Exercise1.dll
+C:\Users\s40977\Source\Repos\Difari\Exercises-IS_1_22\Exercise1\obj\Debug\net5.0\ref\Exercise1.dll
+C:\Users\s40977\Source\Repos\Difari\Exercises-IS_1_22\Exercise1\obj\Debug\net5.0\Exercise1.pdb
+C:\Users\s40977\Source\Repos\Difari\Exercises-IS_1_22\Exercise1\obj\Debug\net5.0\Exercise1.genruntimeconfig.cache
