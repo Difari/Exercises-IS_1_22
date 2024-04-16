@@ -11,13 +11,13 @@ namespace Exercise1
         public void Start()
         {
             Console.Out.WriteLine( "Start" );
-            engine_state = State_Stopped;
+            engine_state = State_Started;
         }
 
         public void Stop()
         {
             Console.Out.WriteLine( "Stop" );
-            engine_state = State_Started;
+            engine_state = State_Stopped;
         }
 
         public string GetState()
@@ -27,12 +27,8 @@ namespace Exercise1
             if (engine_state == State_Stopped)
                 state = "STOPPED";
 
-            else if (engine_state == State_Started)
+            else 
                 state = "STARTED";
-
-            else
-                state = "Unknown";
-
 
             return state;
         }
